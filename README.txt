@@ -1,20 +1,24 @@
-           ---------- 
-           Consultant 
-           ---------- 
+
+
+           CONSULTANT 
+           A FORK IN THE ROAD 
+
 
            Publishing 
-           ---------- 
 
 Licensing: Content in this text file 
            is licensed under a Creative 
            Commons Attribution 4.0 
            International license. 
 Author: Nick Morris. 
-Release: Thursday, September 3rd 2026. 
+Release: Tuesday, September 8th 2026. 
 Location: Philadelphia, PA. 
 
+           ---------- 
+           Consultant 
+           ---------- 
+
            Contents 
-           -------- 
 
 Introduction 
 Layout 
