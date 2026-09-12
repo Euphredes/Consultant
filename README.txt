@@ -16,11 +16,11 @@ Location: Philadelphia, PA.
            Contents 
            -------- 
 
-Introduction                         - 
-Layout                               II. 
-Flow                                 IX. 
-Evasion                              XVIII. 
-Property                             XXXIV. 
+Introduction 
+Layout 
+Flow 
+Evasion 
+Inventory 
 
            Introduction 
            ------------ 
