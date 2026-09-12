@@ -26,8 +26,8 @@ experience I'm abused by daily,
 thoughts, are a stranger. I do not 
 know the who of my thinking. This 
 strikes fear into my authenticity. 
-I'll use chanting or humming to cope: 
-to overload my mind until some 
+I'll use silence, chanting, or humming 
+to cope: to overload my mind until some 
 reaction within me, that is strong 
 enough, breaks thorugh my self-imposed 
 monotony. That reaction is a choice 
